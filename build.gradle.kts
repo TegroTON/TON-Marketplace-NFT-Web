@@ -36,7 +36,7 @@ kotlin {
                 implementation("org.kodein.di:kodein-di-conf:$kodeinVersion")
 
                 // Logging
-                implementation("io.github.microutils:kotlin-logging:3.0.4")
+                implementation("io.github.microutils:kotlin-logging:3.0.5")
 
                 // Coroutines
                 implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
