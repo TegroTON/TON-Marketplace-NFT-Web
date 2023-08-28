@@ -42,7 +42,7 @@ kotlin {
                 implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
 
                 // Serialization
-                implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1")
+                implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0")
                 implementation("io.ktor:ktor-serialization-kotlinx-json:$ktorVersion")
                 implementation("com.ionspin.kotlin:bignum-serialization-kotlinx:0.3.7")
 
