@@ -1,6 +1,6 @@
 plugins {
     kotlin("multiplatform") version "1.7.20"
-    kotlin("plugin.serialization") version "1.7.20"
+    kotlin("plugin.serialization") version "1.9.22"
 }
 
 val ktorVersion = "2.2.1"
