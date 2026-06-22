@@ -3,7 +3,7 @@ plugins {
     kotlin("plugin.serialization") version "1.7.20"
 }
 
-val ktorVersion = "2.2.1"
+val ktorVersion = "2.3.3"
 val kodeinVersion = "7.16.0"
 
 group = "com.libermall"
